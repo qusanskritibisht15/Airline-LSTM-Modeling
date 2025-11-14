@@ -7,7 +7,7 @@ ________________________________________
 **DATASET**
 
 Source: Monthly International Airline Passengers Dataset
-URL: https://github.com/qusanskritibisht15/Airline-Forecasting/blob/main/airline-passengers.csv
+URL: https://github.com/qusanskritibisht15/Airline-LSTM-Modeling/blob/main/airline-passengers.csv
 Time Period: January 1949 – December 1960
 Total Records: 144 monthly observations
 This dataset is well-suited for sequence modelling because it shows clear seasonality, upward trends, and long-term growth in passenger numbers.
